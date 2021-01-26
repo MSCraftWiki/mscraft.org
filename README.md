@@ -1,4 +1,6 @@
-# Join the server with the IP `play.mscraft.org`!
+# MSCraft Home
+
+## Join the server with the IP `play.mscraft.org`!
 
 Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [@lunaqq#6284](#luna-owner), [@bushtail#0420](#bushi-technician), and [@Chloe#7069](#chloe-technician).
 
