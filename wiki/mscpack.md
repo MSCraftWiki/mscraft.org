@@ -19,7 +19,7 @@ The MSCraft server runs on an updated and modified version of [PolyPack](https:/
 13. Crooked Crooks
 14. DFASCF
 15. Dimension Update Fixer
-16. [DisFabric](https://github.com/MSCraftWiki/mscraft/wiki/disfabric)
+16. [DisFabric](https://www.mscraft.org/wiki/mods/disfabric)
 17. Economical Villager Trading
 18. Fabric API
 19. Fabrication
@@ -28,12 +28,12 @@ The MSCraft server runs on an updated and modified version of [PolyPack](https:/
 22. Fabric Language Kotlin
 23. Fabric Warps
 24. Farsighted Mobs
-25. [Flesh2Leather](https://github.com/MSCraftWiki/mscraft/wiki/flesh2leather)
+25. [Flesh2Leather](https://www.mscraft.org/wiki/mods/flesh2leather)
 26. Harmful Stonecutters
 27. Harvest
 28. Hydrogen
 29. Krypton
-30. [KubeJS](https://github.com/MSCraftWiki/mscraft/wiki/kubejs)
+30. [KubeJS](https://www.mscraft.org/wiki/mods/kubejs)
 31. Leaf Me Alone
 32. Lengthy Ladders
 33. Lithium
