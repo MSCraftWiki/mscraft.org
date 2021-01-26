@@ -6,7 +6,7 @@ The server runs a custom server-side only modpack called MSCPack, which is a cus
 
 ## Wiki
 
-Our [Wiki](https://www.mscraft.org/) is available to provide any information you will need about our server. This wiki will be kept up-to-date as things change.
+Our [Wiki](https://www.mscraft.org/wiki/home) is available to provide any information you will need about our server. This wiki will be kept up-to-date as things change.
 
 ## Meet the Team
 
