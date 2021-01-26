@@ -22,4 +22,4 @@ Non-professionally, Bushi is a guitarist and music nerd, record collector, and t
 
 ### Special Mentions
 
-Massive thanks to iSpicyTofu for providing us assistance with server builds such as the beautiful spawn platform.
+Massive thanks to iSpicyTofu for providing us assistance with server builds such as the beautiful nature trail at spawn.
