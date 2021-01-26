@@ -1,4 +1,4 @@
-Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [Luna]("@lunaqq#6284"), [Bushi]("@bushtail#0420"), [Chloe]("@Chloe#7069"), and [iSpicyTofu]("@Banana Soule#6888").
+Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [Luna]("@lunaqq#6284"), [Bushi]("@bushtail#0420"), and [Chloe]("@Chloe#7069").
 
 The server runs a custom server-side only modpack called MSCPack, which is an updated and modified version of [PolyPack](https://www.curseforge.com/minecraft/modpacks/polypack).
 
@@ -20,6 +20,6 @@ Non-professionally, Bushi is a guitarist and music nerd, record collector, and t
 
 ![Chloe](https://raw.githubusercontent.com/MSCraftWiki/mscraft.org/main/assets/img/chloe.png)
 
-### iSpicyTofu (Master Builder)
+### Special Mentions
 
-
+Massive thanks to iSpicyTofu for providing us assistance with server builds such as the beautiful spawn platform.
