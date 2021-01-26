@@ -1,6 +1,12 @@
-Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [Luna]("@lunaqq#6284"), [Bushi]("@bushtail#0420"), and [Chloe]("@Chloe#7069").
+# Join the server with
 
-The server runs a custom server-side only modpack called MSCPack, which is an updated and modified version of [PolyPack](https://www.curseforge.com/minecraft/modpacks/polypack).
+Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [@lunaqq#6284](#luna--owner-), [@bushtail#0420](#bushi--technician-), and [@Chloe#7069](#chloe--technician-).
+
+The server runs a custom server-side only modpack called MSCPack, which is a custom-made modpack based around [PolyMC](https://github.com/TheEpicBlock/PolyMc).
+
+## Wiki
+
+Our [Wiki](https://www.mscraft.org/wiki/home) is available to provide any information you will need about our server. This wiki will be kept up-to-date as things change.
 
 ## Meet the Team
 
