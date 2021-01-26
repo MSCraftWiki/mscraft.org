@@ -1,4 +1,6 @@
-# As supplied by the "Fabrication" mod:
+# Server Tweaks
+
+## As supplied by the "Fabrication" mod:
 Not everything here will work as intended in case they require a client-side dependency we aren't aware of. This list should be limited only to things that will work on a 100% vanilla client but they haven't all been tested.
 
 * You can push furnace minecarts by right-clicking them without a fuel (Previously a vanilla feature that was then removed)
