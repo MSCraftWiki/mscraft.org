@@ -10,6 +10,29 @@ The server runs a custom server-side only modpack called MSCPack, which is a cus
 
 Our [Wiki](https://www.mscraft.org/wiki/home) is available to provide any information you will need about our server. This wiki will be kept up-to-date as things change.
 
+## What can MSCraft offer me?
+
+Compared to a 100% vanilla server, we feature:
+* Dozens upon dozens of miscellaneous balance changes, tweaks, bug fixes, and improvements. Want the full list?: 
+[All Server Tweaks](https://github.com/mscminecraft/minecraft/wiki/Server-Tweaks)
+* Massively overhauled cave generation that gets more crazy the lower down you go, including cave biomes.
+* Dozens of new interesting biomes with custom generation, from cloud-high cliffs to rolling hills to autumnal woods to the iconic fir forests.
+* Overhauled biome-specific mineshafts that contain surface openings, workstation cellars, ore deposits at the ends of tunnels, multiple levels of elevation with ladders, abandoned mining outposts, and more.
+* Lots of new randomly-generated structures, including biome-specific village types
+* Tons of delicious new food items to make, with custom textures.
+* Enhanced overworld generation that's faster to generate, and much more interesting.
+* Adds a new set of tools, "crooks", which break leaves and grass faster while multiplying their droprates. Also can be used to pull and lift mobs. Craft a wooden crook in the shape of a hoe with only sticks.
+* Arrange rotten flesh in an X-shape in a crafting table to make combined flesh, which can be turned into leather in a smoker or on a campfire.
+* Shulker Boxes and Ender Chests can be opened from the inventory without being placed first.
+* Right-click crops to automatically harvest and replant them.
+* The more people sleeping at once, the faster the night passes.
+* Ladders don't need to be placed on walls!
+* Mobs can see farther, and creepers are more intelligent.
+* Snow piles up, stacking and getting taller with time, and creating variety in your snowscapes.
+* Hovering over blocks shows you what they are, toggleable with `/baila toggle`
+* Mobs that prevent you from sleeping are highlighted.
+* Villagers have cute permanent random names.
+
 ## Meet the Team
 
 ### Luna (Owner)
