@@ -18,6 +18,7 @@ Compared to a 100% vanilla server, we feature:
 * Massively overhauled cave generation that gets more crazy the lower down you go, including cave biomes.
 * Dozens of new interesting biomes with custom generation, from cloud-high cliffs to rolling hills to autumnal woods to the iconic fir forests.
 * Overhauled biome-specific mineshafts that contain surface openings, workstation cellars, ore deposits at the ends of tunnels, multiple levels of elevation with ladders, abandoned mining outposts, and more.
+* Mobs can see farther and are smarter when trying to get to you. Creepers have entirely new A.I. to make them less frustrating and more... creepy.
 * Lots of new randomly-generated structures, including biome-specific village types
 * Tons of delicious new food items to make, with custom textures.
 * Enhanced overworld generation that's faster to generate, and much more interesting.
@@ -27,7 +28,6 @@ Compared to a 100% vanilla server, we feature:
 * Right-click crops to automatically harvest and replant them.
 * The more people sleeping at once, the faster the night passes.
 * Ladders don't need to be placed on walls!
-* Mobs can see farther, and creepers are more intelligent.
 * Snow piles up, stacking and getting taller with time, and creating variety in your snowscapes.
 * Hovering over blocks shows you what they are, toggleable with `/baila toggle`
 * Mobs that prevent you from sleeping are highlighted.
