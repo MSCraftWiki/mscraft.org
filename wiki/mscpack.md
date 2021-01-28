@@ -1,6 +1,6 @@
 # MSCPack
 
-The MSCraft server runs on an updated and modified version of [PolyPack](https://www.curseforge.com/minecraft/modpacks/polypack) called MSCPack, MSCP for short. This server-side modpack is created by [Chloe]("@Chloe#7069") and [Bushi]("@bushtail#0420").
+The server runs a custom server-side only modpack called MSCPack, which is a custom-made modpack based around [PolyMC](https://github.com/TheEpicBlock/PolyMc). This modpack is created by [Chloe]("@Chloe#7069") and [Bushi]("@bushtail#0420").
 
 ## Mods
 
