@@ -61,6 +61,6 @@ Massive thanks to iSpicyTofu for providing us assistance with server builds such
 
 ## Donators
 
-Running a server isn't free! Feel free to [donate by clicking here](https://www.paypal.me/JakkAnkov). Thanks to the following lovely people for donating to keep MSCraft alive!
+Running a server isn't free! Feel free to [donate by clicking here](https://www.paypal.me/JakkAnkov). Thanks to the following lovely people for donating to keep the MSCraft server alive!
 
 *Willow (chuckette17)
