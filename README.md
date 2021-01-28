@@ -14,7 +14,7 @@ Our [Wiki](https://www.mscraft.org/wiki/home) is available to provide any inform
 
 Compared to a 100% vanilla server, we feature:
 * Dozens upon dozens of miscellaneous balance changes, tweaks, bug fixes, and improvements. Want the full list?: 
-[All Server Tweaks](https://github.com/mscminecraft/minecraft/wiki/Server-Tweaks)
+[All Server Tweaks](https://www.mscraft.org/wiki/servertweaks)
 * Massively overhauled cave generation that gets more crazy the lower down you go, including cave biomes.
 * Dozens of new interesting biomes with custom generation, from cloud-high cliffs to rolling hills to autumnal woods to the iconic fir forests.
 * Overhauled biome-specific mineshafts that contain surface openings, workstation cellars, ore deposits at the ends of tunnels, multiple levels of elevation with ladders, abandoned mining outposts, and more.
