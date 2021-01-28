@@ -59,42 +59,8 @@ Willow (chuckette17)
 
 Massive thanks to iSpicyTofu for providing us assistance with server builds such as the beautiful nature trail at spawn.
 
+## Donators
 
+Running a server isn't free! Feel free to [donate by clicking here](https://www.paypal.me/JakkAnkov). Thanks to the following lovely people for donating to keep MSCraft alive!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-shoutouts to pablo
-
-Benny Harvey RIP
+*Willow (chuckette17)
