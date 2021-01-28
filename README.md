@@ -37,7 +37,7 @@ Compared to a 100% vanilla server, we feature:
 
 ### Luna (Owner)
 
-"im gay" - luna
+"im based as fuck bro" - luna
 
 ### Bushi (Technician)
 
@@ -51,9 +51,15 @@ Non-professionally, Bushi is a guitarist and music nerd, record collector, and t
 
 ![Chloe](https://raw.githubusercontent.com/MSCraftWiki/mscraft.org/main/assets/img/chloe.png)
 
+##Donators
+
+Willow (chuckette17)
+
 ### Special Mentions
 
 Massive thanks to iSpicyTofu for providing us assistance with server builds such as the beautiful nature trail at spawn.
+
+
 
 
 
