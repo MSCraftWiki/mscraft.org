@@ -53,5 +53,6 @@ The MSCraft server runs on an updated and modified version of [PolyPack](https:/
 47. Starlight
 48. Stitched Snow
 49. Traverse
-50. Villager Names
-51. YUNG's API
+50. [Vein Mining](https://www.mscraft.org/wiki/mods/veinmining)
+51. Villager Names
+52. YUNG's API
