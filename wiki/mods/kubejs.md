@@ -9,8 +9,9 @@ For those who recall our original PaperMC server, you'll recall that it containe
 #### 1. Scripts
   1. [Bakery](#bakery)
   2. [BlastStone](#blaststone)
-  3. [ShinyBlackstone](#shinyblackstone)
-  4. [SlabToBlocks](#slabtoblocks)
+  3. [BreakinBlocks](#breakinblocks)
+  4. [ShinyBlackstone](#shinyblackstone)
+  5. [SlabToBlocks](#slabtoblocks)
 
 ## Scripts
 
@@ -21,6 +22,10 @@ Bakery is a simple plugin to fix a glaring plot hole in Minecraft lore... how on
 ### BlastStone
 
 Holy crap making stone takes a long time. Not anymore! You can now use the Blast Furnace to make Stone-based, and Sandstone-based blocks, and blasting Sand to make Glass. Sure beats using the boring old Furnace!
+
+### BreakinBlocks
+
+Added the ability to break down Nether Wart Blocks and Honeycomb Blocks.
 
 ### ShinyBlackstone
 
