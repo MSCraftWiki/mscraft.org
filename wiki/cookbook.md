@@ -1,8 +1,9 @@
 # Cookbook
 ## By E.N. Derman.
 
-The art of cooking delicious food is one rarely travelled yet one that can be most rewarding.
-This instructional guidebook will teach you how to dazzle your friends, family, loved-ones, estranged Piglin cousins, and more.
+The path of learning how to cook delicious food is one rarely travelled yet one that can be most rewarding.
+This instructional guidebook will teach you how to dazzle your friends, family, loved-ones, estranged Piglin cousins, and more
+with easy, tasty, satisfying recipes you can make with forageable ingredients throughout your area.
 
 1. [Apple Pie](#apple-pie)
 1. [Bacon](#bacon)
