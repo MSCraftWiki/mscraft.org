@@ -4,6 +4,24 @@
 The art of cooking delicious food is one rarely travelled yet one that can be most rewarding.
 This instructional guidebook will teach you how to dazzle your friends, family, loved-ones, estranged Piglin cousins, and more.
 
+1. [Apple Pie](#apple-pie)
+1. [Bacon](#bacon)
+1. [Cactus Soup](#cactus-soup)
+1. [Candied Apple](#candied-apple)
+1. [Chocolate Pie](#chocolate-pie)
+1. [Roasted Carrot](#roasted-carrot)
+1. [Fried Egg](#fried-egg)
+1. [Roasted Spider Eye](#roasted-spider-eye)
+1. [Honey Bread](#honey-bread)
+1. [Melon Pie](#melon-pie)
+1. [Pumpkin Cookie](#pumpkin-cookie)
+1. [Shepherd Pie](#shepherd-pie)
+1. [Sugar Cookie](#sugar-cookie)
+1. [Sushi](#sushi)
+1. [Jam](#jam)
+1. [Sweetberry Bread](#sweetberry-bread)
+1. [Sweetberry Pie](#sweetberry-pie)
+
 ### Apple Pie
 An old time favorite among Nitwits - On a workbench, stitch together
 one oak apple, one gram of sugar, and one large egg.
@@ -54,7 +72,7 @@ sew the slices together first.
 A friend of mine in the Mud Colony was struggling to satisfy a cookie craving when the nearest jungle was over 2,500 meters away! That simply
 couldn't do. I tried replacing the cacao in the standard cookie with a pumpkin instead, and it made a delicious cookie I bring to every family gathering.
 
-### Shepherd's Pie
+### Shepherd Pie
 A favorite among the mountainmen of yonder, a warm meat pie consisting of a raw potato, a raw carrot, and some roasted meat from a sheep.
 
 ### Sugar Cookie
