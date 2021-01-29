@@ -12,6 +12,8 @@ Our [Wiki](https://www.mscraft.org/wiki/home) is available to provide any inform
 
 If you're interested in the people behind the server, feel free to [Meet the Team](https://www.mscraft.org/meettheteam).
 
+Read our [cookbook!](https://www.mscraft.org/wiki/cookbook)
+
 ## What can MSCraft offer me?
 
 Compared to a 100% vanilla server, we feature:
