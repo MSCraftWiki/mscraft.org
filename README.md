@@ -14,7 +14,25 @@ If you're interested in the people behind the server, feel free to [Meet the Tea
 
 Read our [cookbook!](https://www.mscraft.org/wiki/cookbook)
 
-## What can MSCraft offer me?
+# Rules
+
+## Respect your fellow players.
+
+Trolling, non-sanctioned PvP, or other actions meant to provoke an upset response from a player are not allowed.
+
+## Report issues/feature requests on our GitHub issue tracker.
+
+We've got a dedicated issue tracker for issues and feature requests. If you have something to report, or something you'd like to see us add, please submit a report on our [issue tracker page](https://github.com/MSCraftWiki/issue-tracker/settings).
+
+## Cheating will not be tolerated.
+
+Do not cheat. Do not abuse bugs in the server. Do not use x-ray texture packs. Being caught using any of these to give yourself an unfair advantage over other players will result in an immediate ban.
+
+## Do not destroy, edit, or build onto other players' bases without permission.
+
+Griefing is strictly forbidden. Modifying another player's base without permission is also forbidden - it doesn't matter if you think you're helping a user, unless it's your own base, or you've asked permission, do not edit a fellow player's base.
+
+# What can MSCraft offer me?
 
 Compared to a 100% vanilla server, we feature:
 * Dozens upon dozens of miscellaneous balance changes, tweaks, bug fixes, and improvements. Want the full list?: 
