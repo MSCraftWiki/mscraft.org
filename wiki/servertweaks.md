@@ -52,5 +52,5 @@ Not everything here will work as intended in case they require a client-side dep
 * Running on soul blocks with Soul Speed will not deal damage to your boots.
 * Tridents can accept the Power enchantment, increasing their ranged damage. It is incompatible with Sharpness and Impaling.
 * Tridents can accept the Sharpness enchantment, increasing their melee damage. Incompatible with Power and Impaling.
-* Nether blocks deal 50x damage to non-golden and non-netherite tools. Gold tools take 1/50th the damage when breaking the same blocks, bringing their durability just above diamond. Wooden tools crafted with nether planks and stone tools crafted with blackstone also get the 1/50th damage bonus.
+* Disenchant items and receive a book of the enchant in a grindstone by placing the item you wish to disenchant on the top, along with a book on the bottom slot. You will both retain the item and receive a book containing the enchant. 
 * Disables the unnecessary "Gear equips" sound that plays when your hands change, and is often glitchily played every tick. Armor equip sounds and other custom equip sounds remain unchanged. You won't even notice it's gone.
