@@ -2,6 +2,8 @@
 
 ## Join the server with the IP `play.mscraft.org`!
 
+## Thank you to Willow (chuckette17) for paying for 5 MONTHS OF THE SERVER (what the fuck you are insane i love you)
+
 Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [@lunaqq#6284](#luna-owner), [@bushtail#0420](#bushi-technician), and [@Chloe#7069](#chloe-technician).
 
 The server runs a custom server-side only modpack called MSCPack, which is a custom-made modpack based around [PolyMC](https://github.com/TheEpicBlock/PolyMc).
@@ -56,8 +58,7 @@ Compared to a 100% vanilla server, we feature:
 * Villagers have cute permanent random names.
 * Adds a Vein Miner enchantment, which mines veins.
 
-## Donators
+## Donations
 
 Running a server isn't free! Feel free to [donate by clicking here](https://www.paypal.me/JakkAnkov). Thanks to the following lovely people for donating to keep the MSCraft server alive!
 
-* Willow (chuckette17)
