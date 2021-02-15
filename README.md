@@ -2,9 +2,7 @@
 
 ## Join the server with the IP `play.mscraft.org`!
 
-## Thank you to Willow (chuckette17) for paying for 5 MONTHS OF THE SERVER (what the fuck you are insane i love you)
-
-Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [@lunaqq#6284](#luna-owner), [@bushtail#0420](#bushi-technician), and [@Chloe#7069](#chloe-technician).
+Howdy! Welcome to the official website for the MSCraft Minecraft Server, the official server for the [MSC Discord Server](https://discord.gg/msc). This server, and its website, are lovingly maintained by [@lunaqq#6284](#luna-owner), [@bushtail#0420](#bushi-technician), and [@Chloe#7069](#chloe-technician), and sponsored by @chuckette#6312.
 
 The server runs a custom server-side only modpack called MSCPack, which is a custom-made modpack based around [PolyMC](https://github.com/TheEpicBlock/PolyMc).
 
